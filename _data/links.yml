@@ -1,5 +1,5 @@
 - categories:
-  - name: 购物
+  - name: 官网
     links:
     - name: 淘宝
       style: orange
@@ -128,7 +128,7 @@
     #   style: basic
     #   url: https://macwk.com/
 
-  - name: 社交
+  - name: 数据源
     links:
     - name: 微博
       icon: weibo red
@@ -237,7 +237,7 @@
       style: black
       url: https://www.y-english.org/
 
-  - name: 娱乐
+  - name: 在线文档
     links:
     - name: Youtube
       icon: youtube red
@@ -323,7 +323,7 @@
       url: https://douyu.com/
 
 - categories:
-  - name: 北邮校园
+  - name: 待分类1
     links:
     - name: 北邮官网
       style: basic
@@ -381,7 +381,7 @@
     #   style: basic
     #   url: http://buptclass.com/
 
-  - name: 校园助手
+  - name: 待分类2
     links:
     - name: 空余教室查询
       style: basic
@@ -443,7 +443,7 @@
       style: basic
       url: http://www.bupt.edu.cn/content/content.php?p=6_10_80
 
-  - name: 论坛相关
+  - name: 待分类3
     links:
     - name: 北邮人论坛
       style: teal
