@@ -1,5 +1,5 @@
 - categories:
-  - name: 官网
+  - name: 行业官网
     links:
     - name: 淘宝
       style: orange
@@ -9,33 +9,33 @@
       style: red
       url: https://www.tmall.com/
 
-    - name: 京东
+    - name: 长光
       style: basic
       url: https://www.jd.com/
 
-    - name: Amazon
+    - name: 航天宏图
       icon: amazon yellow
       style: basic
       url: https://www.amazon.cn/
 
-    - name: Apple
+    - name: 欧比特
       style: basic
       icon: apple grey
       url: https://www.apple.com/
 
-    - name: 当当
+    - name: 星图地球
       style: pink
       url: http://www.dangdang.com/
 
-    - name: 严选
+    - name: 卫星云遥
       style: basic
       url: http://you.163.com/
 
-    - name: UNIQLO
+    - name: 北斗
       style: red
       url: http://www.uniqlo.cn/
 
-    - name: MUJI
+    - name: 天目
       style: basic
       url: http://www.muji.com.cn/
 
@@ -58,75 +58,6 @@
     - name: 有品
       style: brown
       url: https://xiaomiyoupin.com/
-
-  - name: 工具
-    links:
-    - name: '高清卫星地图'
-      icon: train red
-      style: basic
-      url: http://www.bigemap.net/
-
-    - name: 快递查询
-      icon: truck olive
-      style: basic
-      url: https://kuaidi100.com/
-
-    - name: 大众点评
-      icon: utensils orange
-      style: basic
-      url: https://www.dianping.com/
-
-    - name: 网易邮箱
-      icon: envelope red
-      style: basic
-      url: https://email.163.com/
-
-    - name: QQ邮箱
-      icon: qq black
-      style: basic
-      url: https://mail.qq.com/
-
-    - name: 新浪邮箱
-      icon: envelope red
-      style: basic
-      url: https://mail.sina.com.cn/
-
-    - name: Gmail
-      icon: google red
-      style: basic
-      url: https://mail.google.com/
-
-    - name: 谷歌翻译
-      icon: language blue
-      style: basic
-      url: https://translate.google.com/
-
-    - name: 百度翻译
-      icon: paw blue
-      style: basic
-      url: https://fanyi.baidu.com/
-
-    - name: 维基百科
-      icon: wikipedia w black
-      style: basic
-      url: https://www.wikipedia.org/
-
-    - name: 彩云天气
-      icon: cloud olive
-      style: basic
-      url: http://caiyunapp.com/map
-
-    - name: 天眼查
-      style: basic
-      url: https://www.tianyancha.com/
-
-    # - name: 稿定设计
-    #   style: basic
-    #   url: https://www.gaoding.com/
-
-    # - name: MacWk
-    #   style: basic
-    #   url: https://macwk.com/
 
   - name: 数据源
     links:
@@ -185,7 +116,7 @@
       style: basic
       url: https://www.linkedin.com/
 
-  - name: 学习
+  - name: 科研机构
     links:
     - name: Coursera
       style: basic
@@ -237,7 +168,68 @@
       style: black
       url: https://www.y-english.org/
 
-  - name: 在线文档
+  - name: 工具
+    links:
+    - name: '高清卫星地图'
+      icon: map red
+      style: basic
+      url: http://www.bigemap.net/
+
+    - name: 标准地图服务
+      icon: map yellow
+      style: basic
+      url: http://bzdt.ch.mnr.gov.cn/
+
+    - name: 经纬度定位查询
+      icon: location orange
+      style: basic
+      url: https://www.qvdv.net/tools/qvdv-coordinate.html
+
+    - name: 网易邮箱
+      icon: envelope red
+      style: basic
+      url: https://email.163.com/
+
+    - name: QQ邮箱
+      icon: qq black
+      style: basic
+      url: https://mail.qq.com/
+
+    - name: 新浪邮箱
+      icon: envelope red
+      style: basic
+      url: https://mail.sina.com.cn/
+
+    - name: Gmail
+      icon: google red
+      style: basic
+      url: https://mail.google.com/
+
+    - name: 谷歌翻译
+      icon: language blue
+      style: basic
+      url: https://translate.google.com/
+
+    - name: 百度翻译
+      icon: paw blue
+      style: basic
+      url: https://fanyi.baidu.com/
+
+    - name: 维基百科
+      icon: wikipedia w black
+      style: basic
+      url: https://www.wikipedia.org/
+
+    - name: 彩云天气
+      icon: cloud olive
+      style: basic
+      url: http://caiyunapp.com/map
+
+    - name: 天眼查
+      style: basic
+      url: https://www.tianyancha.com/
+
+  - name: 政策法规
     links:
     - name: Youtube
       icon: youtube red
@@ -323,65 +315,7 @@
       url: https://douyu.com/
 
 - categories:
-  - name: 待分类1
-    links:
-    - name: 北邮官网
-      style: basic
-      url: https://www.bupt.edu.cn/
-
-    # - name: 本科教务系统
-    #   style: basic
-    #   url: https://jwgl.bupt.edu.cn/jsxsd/
-
-    - name: 研究生教务系统
-      style: basic
-      url: http://yjxt.bupt.edu.cn/
-
-    - name: 教务处
-      style: basic
-      url: http://jwc.bupt.edu.cn/
-
-    - name: 北邮人论坛
-      style: basic
-      url: https://bbs.byr.cn/
-
-    - name: 北邮人BT
-      style: blue
-      url: https://byr.pt/promotionlink.php?key=63030ce02da245eb152d2e8dc8dd6add
-
-    # - name: 北邮IPTV
-    #   style: basic
-    #   url: http://tv.byr.cn/
-
-    # - name: 信息门户
-    #   style: basic
-    #   url: http://my.bupt.edu.cn/
-
-    - name: 图书馆
-      style: basic
-      url: http://lib.bupt.edu.cn/
-
-    - name: 北邮贴吧
-      style: basic
-      url: http://tieba.baidu.com/f?kw=%B1%B1%BE%A9%D3%CA%B5%E7%B4%F3%D1%A7
-
-    - name: 校园网
-      style: basic
-      url: http://nic.bupt.edu.cn/
-
-    - name: 北邮邮箱
-      style: basic
-      url: http://mail.bupt.edu.cn/
-
-    # - name: VPN服务
-    #   style: basic
-    #   url: https://nic.bupt.edu.cn/list/list.php?p=5_13_1
-
-    # - name: 空闲自习室查询
-    #   style: basic
-    #   url: http://buptclass.com/
-
-  - name: 待分类2
+  - name: 学习资源
     links:
     - name: 空余教室查询
       style: basic
@@ -443,7 +377,7 @@
       style: basic
       url: http://www.bupt.edu.cn/content/content.php?p=6_10_80
 
-  - name: 待分类3
+  - name: 实用文章
     links:
     - name: 北邮人论坛
       style: teal
@@ -486,3 +420,49 @@
     # - name: 玩转论坛指南
     #   style: basic
     #   url: http://bbs.byr.cn/#!article/Talking/5852307
+
+  - name: 资源下载
+    links:
+    - name: 北邮官网
+      style: basic
+      url: https://www.bupt.edu.cn/
+
+    - name: 研究生教务系统
+      style: basic
+      url: http://yjxt.bupt.edu.cn/
+
+    - name: 教务处
+      style: basic
+      url: http://jwc.bupt.edu.cn/
+
+    - name: 北邮人论坛
+      style: basic
+      url: https://bbs.byr.cn/
+
+    - name: 北邮人BT
+      style: blue
+      url: https://byr.pt/promotionlink.php?key=63030ce02da245eb152d2e8dc8dd6add
+
+    # - name: 北邮IPTV
+    #   style: basic
+    #   url: http://tv.byr.cn/
+
+    # - name: 信息门户
+    #   style: basic
+    #   url: http://my.bupt.edu.cn/
+
+    - name: 图书馆
+      style: basic
+      url: http://lib.bupt.edu.cn/
+
+    - name: 北邮贴吧
+      style: basic
+      url: http://tieba.baidu.com/f?kw=%B1%B1%BE%A9%D3%CA%B5%E7%B4%F3%D1%A7
+
+    - name: 校园网
+      style: basic
+      url: http://nic.bupt.edu.cn/
+
+    - name: 北邮邮箱
+      style: basic
+      url: http://mail.bupt.edu.cn/
