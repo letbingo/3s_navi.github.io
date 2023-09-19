@@ -39,60 +39,90 @@
 
   - name: 数据源
     links:
-    - name: 微博
-      icon: weibo red
+    - name: 陆地观测卫星数据服务
       style: basic
-      url: https://weibo.com/
+      url: https://data.cresda.cn/
 
-    - name: 微信网页版
-      icon: weixin green
+    - name: 达摩院
       style: basic
-      url: https://wx.qq.com/
+      url: https://engine-aiearth.aliyun.com/
 
-    - name: 百度贴吧
-      icon: paw blue
+    - name: 国家遥感数据与应用服务平台
       style: basic
-      url: https://tieba.baidu.com/
+      url: https://www.cpeos.org.cn/home/#/
 
-    - name: 知乎
-      icon: zhihu blue
+    - name: USGS(Landsat)
       style: basic
-      url: https://www.zhihu.com/
+      url: https://glovis.usgs.gov/app
 
-    - name: Quora
-      icon: quora red
+    - name: ESA(Sentinel)
       style: basic
-      url: https://www.quora.com/
+      url: https://scihub.copernicus.eu/dhus/#/home
 
-    - name: Facebook
-      icon: facebook f blue
+    - name: ASF(Sentinel)
       style: basic
-      url: https://www.facebook.com/
+      url: https://search.asf.alaska.edu/
 
-    - name: Google+
-      icon: google plus g red
+    - name: 珞珈一号
       style: basic
-      url: https://plus.google.com/
+      url: http://59.175.109.173:8888/app/login.html
 
-    - name: Tumblr
-      icon: tumblr blue
-      style: basic
-      url: https://www.tumblr.com/
-
-    - name: Instagram
-      icon: instagram pink
-      style: basic
-      url: https://www.instagram.com/
-
-    - name: GitHub
-      icon: github black
-      style: basic
-      url: https://github.com/
-
-    - name: LinkedIn
+    - name: LAADS DAAC(Modis)
       icon: linkedin blue
       style: basic
-      url: https://www.linkedin.com/
+      url: https://ladsweb.modaps.eosdis.nasa.gov/search/
+
+    - name: 地理空间数据云
+      style: basic
+      url: https://www.gscloud.cn/
+
+    - name: 天目数据
+      style: basic
+      url: https://tmsats.com/
+
+    - name: 科学数据中心
+      style: basic
+      url: https://www.casdc.cn/
+
+    - name: 全国地理信息资源目录服务系统
+      style: basic
+      url: https://www.webmap.cn/main.do?method=index
+
+    - name: 国家地球系统科学数据中心
+      style: basic
+      url: http://gre.geodata.cn/data/index.html
+
+    - name: 地理监测云平台
+      style: basic
+      url: http://www.dsac.cn/
+
+    - name: 风云卫星遥感数据服务网
+      style: basic
+      url: http://satellite.nsmc.org.cn/PortalSite/Default.aspx
+
+    - name: 中国遥感卫星地面站数据共享门户
+      style: basic
+      url: https://www.chinageoss.cn/rsgs/datasharing/imageFilmSearch
+
+    - name: 中国气象数据网
+      style: basic
+      url: http://data.cma.cn/dataGis/static/gridgis/#/pcindex
+
+    - name: 国家海洋科学数据中心
+      style: basic
+      url: http://odc.dlou.edu.cn/data?disc=5
+
+    - name: 国家综合地球观测数据共享平台
+      style: basic
+      url: https://www.chinageoss.cn/
+
+    - name: 全球变化科学研究数据出版系统
+      style: basic
+      url: https://www.geodoi.ac.cn/WebCn/Default.aspx
+
+    - name: 中国科学院遥感与数字地球研究所
+      style: basic
+      url: http://eds.ceode.ac.cn/sjglb/dataservice.htm
 
   - name: 期刊论文 • 科研机构
     links:
@@ -107,6 +137,7 @@
       url: http://xb.chinasmp.com/
 
     - name: 中国工程科学
+      icon: book blue
       style: basic
       url: https://www.engineering.org.cn/ch/journal/SSCAE
 
@@ -182,93 +213,90 @@
       style: basic
       url: https://geojson.io/
 
-  - name: 政策法规
+  - name: 学习资源
     links:
-    - name: Youtube
-      icon: youtube red
+    - name: 麻辣GIS
       style: basic
-      url: https://youtube.com/
+      url: https://malagis.com/
 
-    - name: 爱奇艺
+    - name: GIS知乎
       style: green
-      url: https://iqiyi.com/
+      url: http://zhihu.geoscene.cn/
 
-    - name: 芒果
+    - name: 星林社区
       style: orange
-      url: http://mgtv.com/
+      url: https://www.jl1mall.com/forum
 
-    - name: 咪咕视频
+    - name: GIS帝国
       style: pink
-      url: https://pink.miguvideo.com/
+      url: http://gisempire.com/bbs/
 
-    - name: 腾讯视频
+    - name: OSGeo中国中心
       style: basic
-      url: https://v.qq.com/
+      url: https://www.osgeo.cn/
 
-    - name: 优酷
+    - name: 地信网
       style: basic
-      url: https://youku.com/
+      url: http://bbs.3s001.com/forum.php
 
-    - name: 哔哩哔哩
+    - name: 地理遥感生态网
       style: pink
-      url: https://bilibili.com/
+      url: http://www.gisrs.cn/findListssbook
 
-    - name: AcFun
+    - name: 地信遥感数据汇
       style: orange
-      url: https://www.acfun.cn/
+      url: https://www.gisrsdata.com/
 
-    - name: 腾讯动漫
+    - name: 卫星百科
       style: basic
-      url: https://ac.qq.com/
+      url: https://sat.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5
 
-    - name: 豆瓣电影
-      icon: film blue
+    - name: 遥感影像一点通（企业博客）
       style: basic
-      url: https://movie.douban.com/
-
-    - name: FIX
-      style: yellow
-      url: https://www.zimuxia.cn/%e6%88%91%e4%bb%ac%e7%9a%84%e4%bd%9c%e5%93%81
-
-    - name: FIX
-      icon: file excel green
-      style: basic
-      url: https://docs.qq.com/sheet/DWk5KcXdUam1XVFhS
-
-    - name: NEW
-      style: basic
-      url: https://nzmz.xyz/tvslist.html
-
-    - name: 团长
-      style: orange
-      url: https://t-rex.tzfile.com/
-
-    - name: 弯弯
-      style: blue
-      url: http://wanwansub.com/node/139
-
-    - name: 阿哥
-      style: orange
-      url: https://agmov.com/
-
-    # - name: 猪猪
-    #   style: purple
-    #   url: http://www.zzrbl.com/
-
-    - name: TNH
-      style: basic
-      url: https://www.tnhzmz.com/
-
-    - name: 幻樱
-      style: pink
-      url: http://www.hysub.net/
-
-    - name: 斗鱼
-      style: orange
-      url: https://douyu.com/
+      url: https://mp.sohu.com/profile?xpt=Y2Y4NTJlNzgtOGUwNC00MTE1LWJhYzctY2YwOWQ0MmY1NWM4&_f=index_pagemp_1&spm=smpc.content.author.2.16951040478853pHGFw5
 
 - categories:
-  - name: 学习资源
+  - name: 实用文章
+    links:
+    - name: 北邮人论坛
+      style: teal
+      url: http://bbs.byr.cn/
+
+    - name: 游客版论坛
+      style: basic
+      url: http://bbs.cloud.icybee.cn/
+
+    - name: 检索论坛内容
+      style: basic
+      url: http://search.icybee.cn/
+
+    # - name: 检索用户发帖
+    #   style: basic
+    #   url: http://search.lovezxp.com/
+
+    - name: 查看论坛数据
+      style: basic
+      url: http://bbs.byr.cn/#!elite/path?v=/bbslists
+
+    - name: 论坛APP
+      icon: app store
+      style: black
+      url: https://apps.apple.com/cn/app/id1115232927
+
+    - name: 论坛APP
+      icon: google play
+      style: black
+      url: https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/latest
+
+    - name: 论坛官方微博
+      style: basic
+      url: http://weibo.com/byrbbs
+
+    - name: 论坛投票区
+      style: basic
+      url: http://bbs.byr.cn/#!vote
+
+  - name: 行业研究
     links:
     - name: 空余教室查询
       style: basic
@@ -329,50 +357,6 @@
     - name: 校历
       style: basic
       url: http://www.bupt.edu.cn/content/content.php?p=6_10_80
-
-  - name: 实用文章
-    links:
-    - name: 北邮人论坛
-      style: teal
-      url: http://bbs.byr.cn/
-
-    - name: 游客版论坛
-      style: basic
-      url: http://bbs.cloud.icybee.cn/
-
-    - name: 检索论坛内容
-      style: basic
-      url: http://search.icybee.cn/
-
-    # - name: 检索用户发帖
-    #   style: basic
-    #   url: http://search.lovezxp.com/
-
-    - name: 查看论坛数据
-      style: basic
-      url: http://bbs.byr.cn/#!elite/path?v=/bbslists
-
-    - name: 论坛APP
-      icon: app store
-      style: black
-      url: https://apps.apple.com/cn/app/id1115232927
-
-    - name: 论坛APP
-      icon: google play
-      style: black
-      url: https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/latest
-
-    - name: 论坛官方微博
-      style: basic
-      url: http://weibo.com/byrbbs
-
-    - name: 论坛投票区
-      style: basic
-      url: http://bbs.byr.cn/#!vote
-
-    # - name: 玩转论坛指南
-    #   style: basic
-    #   url: http://bbs.byr.cn/#!article/Talking/5852307
 
   - name: 资源下载
     links:
