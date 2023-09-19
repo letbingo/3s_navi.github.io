@@ -68,7 +68,6 @@
       url: http://59.175.109.173:8888/app/login.html
 
     - name: LAADS DAAC(Modis)
-      icon: linkedin blue
       style: basic
       url: https://ladsweb.modaps.eosdis.nasa.gov/search/
 
@@ -145,11 +144,11 @@
       style: basic
       url: http://www.sasclouds.com/chinese/home
 
-    - name: 武大测绘遥感国重实验室
+    - name: 测绘遥感信息工程国家重点实验室
       style: basic
       url: https://liesmars.whu.edu.cn/
 
-    - name: 中科院无人机研究中心
+    - name: 中科院无人机应用与管控研究中心
       style: basic
       url: http://uav-cas.ac.cn/
 
@@ -157,7 +156,7 @@
       style: basic
       url: http://www.lasac.cn/index.html
 
-    - name: 遥感科学国重实验室
+    - name: 遥感科学国家重点实验室
       style: basic
       url: http://www.slrss.cn/
 
@@ -258,148 +257,26 @@
 - categories:
   - name: 实用文章
     links:
-    - name: 北邮人论坛
-      style: teal
-      url: http://bbs.byr.cn/
-
-    - name: 游客版论坛
-      style: basic
-      url: http://bbs.cloud.icybee.cn/
-
-    - name: 检索论坛内容
-      style: basic
-      url: http://search.icybee.cn/
-
-    # - name: 检索用户发帖
-    #   style: basic
-    #   url: http://search.lovezxp.com/
-
-    - name: 查看论坛数据
-      style: basic
-      url: http://bbs.byr.cn/#!elite/path?v=/bbslists
-
-    - name: 论坛APP
-      icon: app store
-      style: black
-      url: https://apps.apple.com/cn/app/id1115232927
-
-    - name: 论坛APP
-      icon: google play
-      style: black
-      url: https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/latest
-
-    - name: 论坛官方微博
-      style: basic
-      url: http://weibo.com/byrbbs
-
-    - name: 论坛投票区
-      style: basic
-      url: http://bbs.byr.cn/#!vote
+    - name: GIS学习干货
+      style: blue
+      url: https://mp.weixin.qq.com/s/Ipu6nF_WiPW5ehSydfPXHA
 
   - name: 行业研究
     links:
-    - name: 空余教室查询
+    - name: 中国遥感卫星及技术发展现状
       style: basic
-      url: http://jwc.bupt.edu.cn/content/content.php?p=10_2_235
+      url: https://zhuanlan.zhihu.com/p/465564220
 
-    - name: 辅修专业
+    - name: 一文看懂卫星产业
       style: basic
-      url: http://jwc.bupt.edu.cn/list/list.php?p=7_50_1
+      url: https://zhuanlan.zhihu.com/p/430654365
 
-    - name: 毕业设计
+    - name: 我国陆地遥感卫星发展现状与展望
       style: basic
-      url: http://jwc.bupt.edu.cn/list/list.php?p=9_38_1
-
-    - name: 学生校际选修
-      style: basic
-      url: http://www.xueyuanlu.cn/
-
-    - name: 创新学分
-      style: basic
-      url: http://jwc.bupt.edu.cn/list/list.php?p=9_39_1
-
-    - name: 课表查询
-      style: basic
-      url: http://jwc.bupt.edu.cn/list/list.php?p=4_34_1
-
-    - name: 考表查询
-      style: basic
-      url: http://jwc.bupt.edu.cn/list/list.php?p=4_35_1
-
-    - name: 出国成绩单办理
-      style: basic
-      url: http://jwc.bupt.edu.cn/content/content.php?p=5_27_65
-
-    - name: 教学事务流程
-      style: basic
-      url: http://jwc.bupt.edu.cn/content/content.php?p=5_68_111
-
-    - name: 创新实践平台
-      style: basic
-      url: http://cslab.bupt.edu.cn/innovation/
-
-    - name: 申请护照通行证
-      style: basic
-      url: http://xsc.bupt.edu.cn/content/content.php?p=27_26_48
-
-    - name: 补办学生证
-      style: basic
-      url: http://xsc.bupt.edu.cn/content/content.php?p=27_26_48
-
-    - name: 校园一卡通
-      style: basic
-      url: http://ecard.bupt.edu.cn/
-
-    - name: 办公电话
-      style: basic
-      url: http://www.bupt.edu.cn/content/content.php?p=6_9_79
-
-    - name: 校历
-      style: basic
-      url: http://www.bupt.edu.cn/content/content.php?p=6_10_80
+      url: https://mp.weixin.qq.com/s?__biz=MzIzMzgyNTI5NQ==&mid=2247503480&idx=2&sn=34d89625fe55056bb534ce3caedea584&chksm=e8fd3b18df8ab20e5da256c0e327cb8ae6eaab9f4cf912e27db04d882eccca8626f356e6f0a6&scene=27
 
   - name: 资源下载
     links:
-    - name: 北邮官网
+    - name: 中国乡镇行政shp
       style: basic
-      url: https://www.bupt.edu.cn/
-
-    - name: 研究生教务系统
-      style: basic
-      url: http://yjxt.bupt.edu.cn/
-
-    - name: 教务处
-      style: basic
-      url: http://jwc.bupt.edu.cn/
-
-    - name: 北邮人论坛
-      style: basic
-      url: https://bbs.byr.cn/
-
-    - name: 北邮人BT
-      style: blue
-      url: https://byr.pt/promotionlink.php?key=63030ce02da245eb152d2e8dc8dd6add
-
-    # - name: 北邮IPTV
-    #   style: basic
-    #   url: http://tv.byr.cn/
-
-    # - name: 信息门户
-    #   style: basic
-    #   url: http://my.bupt.edu.cn/
-
-    - name: 图书馆
-      style: basic
-      url: http://lib.bupt.edu.cn/
-
-    - name: 北邮贴吧
-      style: basic
-      url: http://tieba.baidu.com/f?kw=%B1%B1%BE%A9%D3%CA%B5%E7%B4%F3%D1%A7
-
-    - name: 校园网
-      style: basic
-      url: http://nic.bupt.edu.cn/
-
-    - name: 北邮邮箱
-      style: basic
-      url: http://mail.bupt.edu.cn/
+      url: 链接：https://pan.baidu.com/s/1CX0FpUc_DnN4rG28iIVnrA
