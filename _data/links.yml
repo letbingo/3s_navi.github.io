@@ -11,7 +11,6 @@
 
     - name: 欧比特
       style: red
-      icon: apple grey
       url: https://www.myorbita.net/index.aspx
 
     - name: 星图地球
@@ -95,57 +94,41 @@
       style: basic
       url: https://www.linkedin.com/
 
-  - name: 科研机构
+  - name: 期刊论文 • 科研机构
     links:
-    - name: Coursera
+    - name: 遥感学报
+      icon: book blue
       style: basic
-      url: https://www.coursera.org/
+      url: https://www.ygxb.ac.cn/
 
-    - name: MOOC
+    - name: 测绘学报
+      icon: book blue
       style: basic
-      url: https://mooc.org/
+      url: http://xb.chinasmp.com/
 
-    - name: 网易公开课
+    - name: 中国工程科学
       style: basic
-      url: https://open.163.com/
+      url: https://www.engineering.org.cn/ch/journal/SSCAE
 
-    - name: W3School
+    - name: 自然资源卫星遥感云服务平台
       style: basic
-      url: https://www.w3school.com.cn/
+      url: http://www.sasclouds.com/chinese/home
 
-    - name: Stack Overflow
-      icon: stack overflow orange
+    - name: 武大测绘遥感国重实验室
       style: basic
-      url: https://stackoverflow.com/
+      url: https://liesmars.whu.edu.cn/
 
-    - name: SegmentFault
+    - name: 中科院无人机研究中心
       style: basic
-      url: https://segmentfault.com/
+      url: http://uav-cas.ac.cn/
 
-    - name: Tutorials Point
+    - name: 国土卫星遥感应用中心
       style: basic
-      url: https://www.tutorialspoint.com/
+      url: http://www.lasac.cn/index.html
 
-    - name: Google Open Source
-      icon: code blue
+    - name: 遥感科学国重实验室
       style: basic
-      url: https://opensource.google.com/
-
-    - name: EdX
-      style: basic
-      url: https://edx.org/
-
-    - name: 学堂在线
-      style: basic
-      url: https://next.xuetangx.com/
-
-    - name: 优达学城
-      style: basic
-      url: https://cn.udacity.com/
-
-    - name: 云英语
-      style: black
-      url: https://www.y-english.org/
+      url: http://www.slrss.cn/
 
   - name: 工具
     links:
@@ -174,7 +157,7 @@
       style: basic
       url: https://www.hhlink.com/%E7%BB%8F%E7%BA%AC%E5%BA%A6
 
-    - name: Shapefile转GeoJSON
+    - name: Shapefile to GeoJSON
       icon: exchange blue
       style: basic
       url: https://products.aspose.app/gis/zh/conversion/shapefile-to-geojson
@@ -184,20 +167,20 @@
       style: basic
       url: https://mygeodata.cloud/converter/dwg-to-geojson
 
+    - name: WKT/WKB/GeoJSON
+      icon: exchange blue
+      style: basic
+      url: hhttps://www.osgeo.cn/app/s1343
+
     - name: GeoJSON Validator
       icon: check circle red
       style: basic
       url: https://geojsonlint.com/
 
-    - name: GeoJSON预览
+    - name: GeoJSON Viewer
       icon: eye black
       style: basic
       url: https://geojson.io/
-
-    - name: 热力图
-      icon: braille pink
-      style: basic
-      url: https://www.pslkzs.com/nav/heatmap.php
 
   - name: 政策法规
     links:
