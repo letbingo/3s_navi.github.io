@@ -1,63 +1,42 @@
 - categories:
   - name: 行业官网
     links:
-    - name: 淘宝
-      style: orange
-      url: https://www.taobao.com/
-
-    - name: 天猫
-      style: red
-      url: https://www.tmall.com/
-
-    - name: 长光
-      style: basic
-      url: https://www.jd.com/
+    - name: 长光卫星
+      style: yellow
+      url: http://www.jl1.cn/
 
     - name: 航天宏图
-      icon: amazon yellow
       style: basic
-      url: https://www.amazon.cn/
+      url: http://www.piesat.cn/
 
     - name: 欧比特
-      style: basic
+      style: red
       icon: apple grey
-      url: https://www.apple.com/
+      url: https://www.myorbita.net/index.aspx
 
     - name: 星图地球
-      style: pink
-      url: http://www.dangdang.com/
+      style: brown
+      url: https://daily.geovisearth.com/
 
     - name: 卫星云遥
-      style: basic
-      url: http://you.163.com/
+      style: orange
+      url: https://www.img.net/
 
     - name: 北斗
-      style: red
-      url: http://www.uniqlo.cn/
-
-    - name: 天目
-      style: basic
-      url: http://www.muji.com.cn/
-
-    - name: IKEA
-      style: yellow
-      url: https://www.ikea.cn/
-
-    - name: Decathlon
       style: blue
-      url: https://www.decathlon.com.cn/
+      url: http://www.beidou.gov.cn/
 
-    - name: 大疆
+    - name: 银河航天
+      style: basic
+      url: http://www.yinhehangtian.cn/
+
+    - name: SpaceX
+      style: green
+      url: https://www.spacex.com/
+
+    - name: 零重力
       style: black
-      url: https://www.dji.com/
-
-    - name: 小米
-      style: orange
-      url: https://www.mi.com/
-
-    - name: 有品
-      style: brown
-      url: https://xiaomiyoupin.com/
+      url: http://www.cubesatgarage.com/
 
   - name: 数据源
     links:
@@ -170,64 +149,55 @@
 
   - name: 工具
     links:
-    - name: '高清卫星地图'
-      icon: map red
+    - name: 高清卫星地图
+      icon: map yellow
       style: basic
       url: http://www.bigemap.net/
 
     - name: 标准地图服务
-      icon: map yellow
+      icon: map outline red
       style: basic
       url: http://bzdt.ch.mnr.gov.cn/
 
     - name: 经纬度定位查询
-      icon: location orange
+      icon: map pin orange
       style: basic
       url: https://www.qvdv.net/tools/qvdv-coordinate.html
 
-    - name: 网易邮箱
-      icon: envelope red
+    - name: 地图测绘面积计算
+      icon: calculator black
       style: basic
-      url: https://email.163.com/
+      url: http://www.zhongguosou.com/zonghe/ce_hui_mian_ji_ji_suan.aspx
 
-    - name: QQ邮箱
-      icon: qq black
+    - name: 经纬度距离计算
+      icon: calculator black
       style: basic
-      url: https://mail.qq.com/
+      url: https://www.hhlink.com/%E7%BB%8F%E7%BA%AC%E5%BA%A6
 
-    - name: 新浪邮箱
-      icon: envelope red
+    - name: Shapefile转GeoJSON
+      icon: exchange blue
       style: basic
-      url: https://mail.sina.com.cn/
+      url: https://products.aspose.app/gis/zh/conversion/shapefile-to-geojson
 
-    - name: Gmail
-      icon: google red
+    - name: DWG to GeoJSON
+      icon: exchange blue
       style: basic
-      url: https://mail.google.com/
+      url: https://mygeodata.cloud/converter/dwg-to-geojson
 
-    - name: 谷歌翻译
-      icon: language blue
+    - name: GeoJSON Validator
+      icon: check circle red
       style: basic
-      url: https://translate.google.com/
+      url: https://geojsonlint.com/
 
-    - name: 百度翻译
-      icon: paw blue
+    - name: GeoJSON预览
+      icon: eye black
       style: basic
-      url: https://fanyi.baidu.com/
+      url: https://geojson.io/
 
-    - name: 维基百科
-      icon: wikipedia w black
+    - name: 热力图
+      icon: braille pink
       style: basic
-      url: https://www.wikipedia.org/
-
-    - name: 彩云天气
-      icon: cloud olive
-      style: basic
-      url: http://caiyunapp.com/map
-
-    - name: 天眼查
-      style: basic
-      url: https://www.tianyancha.com/
+      url: https://www.pslkzs.com/nav/heatmap.php
 
   - name: 政策法规
     links:
