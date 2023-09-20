@@ -246,6 +246,10 @@
       style: orange
       url: https://www.gisrsdata.com/
 
+    - name: ArcGIS Developers
+      style: purple
+      url: https://developers.arcgis.com/
+
     - name: 卫星百科
       style: basic
       url: https://sat.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5
@@ -261,6 +265,10 @@
       style: blue
       url: https://mp.weixin.qq.com/s/Ipu6nF_WiPW5ehSydfPXHA
 
+    - name: 高分系列遥感卫星
+      style: red
+      url: https://zhuanlan.zhihu.com/p/387119015
+      
   - name: 行业研究
     links:
     - name: 中国遥感卫星及技术发展现状

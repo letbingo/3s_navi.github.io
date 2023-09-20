@@ -54,14 +54,6 @@
     style: black
     show: true
 
-- id: weixinmp
-  name: 微信公众号
-  url: http://weixin.sogou.com/weixin?type=1&query={query}&ie=utf8
-  shortcut:
-    icon: weixin green inverted
-    style: black
-    show: false
-
 - id: weixinarticle
   name: 微信文章
   url: http://weixin.sogou.com/weixin?type=2&query={query}&ie=utf8
