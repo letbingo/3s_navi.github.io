@@ -1,54 +1,16 @@
 - categories:
-  - name: 行业官网
-    links:
-    - name: 长光卫星
-      style: yellow
-      url: http://www.jl1.cn/
-
-    - name: 航天宏图
-      style: basic
-      url: http://www.piesat.cn/
-
-    - name: 欧比特
-      style: red
-      url: https://www.myorbita.net/index.aspx
-
-    - name: 星图地球
-      style: brown
-      url: https://daily.geovisearth.com/
-
-    - name: 卫星云遥
-      style: orange
-      url: https://www.img.net/
-
-    - name: 北斗
-      style: blue
-      url: http://www.beidou.gov.cn/
-
-    - name: 银河航天
-      style: basic
-      url: http://www.yinhehangtian.cn/
-
-    - name: SpaceX
-      style: green
-      url: https://www.spacex.com/
-
-    - name: 零重力
-      style: black
-      url: http://www.cubesatgarage.com/
-
   - name: 数据源
     links:
     - name: 陆地观测卫星数据服务
-      style: basic
+      style: green
       url: https://data.cresda.cn/
 
     - name: 达摩院
-      style: basic
+      style: black
       url: https://engine-aiearth.aliyun.com/
 
     - name: 国家遥感数据与应用服务平台
-      style: basic
+      style: blue
       url: https://www.cpeos.org.cn/home/#/
 
     - name: USGS(Landsat)
@@ -60,11 +22,11 @@
       url: https://scihub.copernicus.eu/dhus/#/home
 
     - name: ASF(Sentinel)
-      style: basic
+      style: pink
       url: https://search.asf.alaska.edu/
 
     - name: 珞珈一号
-      style: basic
+      style: black
       url: http://59.175.109.173:8888/app/login.html
 
     - name: LAADS DAAC(Modis)
@@ -257,6 +219,44 @@
     - name: 遥感影像一点通（企业博客）
       style: basic
       url: https://mp.sohu.com/profile?xpt=Y2Y4NTJlNzgtOGUwNC00MTE1LWJhYzctY2YwOWQ0MmY1NWM4&_f=index_pagemp_1&spm=smpc.content.author.2.16951040478853pHGFw5
+ 
+  - name: 行业官网
+    links:
+    - name: 长光卫星
+      style: yellow
+      url: http://www.jl1.cn/
+
+    - name: 航天宏图
+      style: basic
+      url: http://www.piesat.cn/
+
+    - name: 欧比特
+      style: red
+      url: https://www.myorbita.net/index.aspx
+
+    - name: 星图地球
+      style: brown
+      url: https://daily.geovisearth.com/
+
+    - name: 卫星云遥
+      style: orange
+      url: https://www.img.net/
+
+    - name: 北斗
+      style: blue
+      url: http://www.beidou.gov.cn/
+
+    - name: 银河航天
+      style: basic
+      url: http://www.yinhehangtian.cn/
+
+    - name: SpaceX
+      style: green
+      url: https://www.spacex.com/
+
+    - name: 零重力
+      style: black
+      url: http://www.cubesatgarage.com/
 
 - categories:
   - name: 实用文章
