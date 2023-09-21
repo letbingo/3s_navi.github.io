@@ -223,9 +223,21 @@
       style: orange
       url: https://www.gisrsdata.com/
 
+    - name: IDL API
+      style: blue
+      url: https://www.nv5geospatialsoftware.com/docs/routines-2.html
+
+    - name: GDAL
+      style: basic
+      url: https://www.osgeo.cn/gdal/index.html
+
     - name: ArcGIS Developers
       style: purple
       url: https://developers.arcgis.com/
+
+    - name: GeoTools
+      style: orange
+      url: http://shengshifeiyang.gitee.io/geotools-learning/
 
     - name: 卫星百科
       style: basic
