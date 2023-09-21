@@ -311,6 +311,10 @@
     - name: 高分系列遥感卫星
       style: red
       url: https://zhuanlan.zhihu.com/p/387119015
+
+    - name: ArcGIS制作专题图
+      style: yellow
+      url: https://mp.weixin.qq.com/s?__biz=MzA5ODA1MjkxOQ==&mid=2649845233&idx=2&sn=52c65ec16940c108dfe4a10c1d2bf86d&chksm=8892b3a9bfe53abf224b7ed0ce6f2da1434578d69afe6f8c1554f18d912d49a1cca791900a49&scene=27
       
   - name: 行业研究
     links:
