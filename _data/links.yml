@@ -1,10 +1,6 @@
 - categories:
   - name: 数据源
     links:
-    - name: AI Earth(达摩院)
-      style: black
-      url: https://engine-aiearth.aliyun.com/
-
     - name: USGS(Landsat)
       style: basic
       url: https://glovis.usgs.gov/app
@@ -124,6 +120,9 @@
 
   - name: 工具
     links:
+    - name: AI Earth(达摩院)
+      icon: laptop black
+      url: https://engine-aiearth.aliyun.com/
 
     - name: SenseEarth(商汤)
       icon: cloud blue
@@ -160,18 +159,23 @@
       style: basic
       url: https://www.hhlink.com/%E7%BB%8F%E7%BA%AC%E5%BA%A6
 
+    - name: GeoJSON在线生成
+      icon: download blue
+      style: basic
+      url: https://hxkj.vip/demo/echartsMap/
+
     - name: Shapefile to GeoJSON
-      icon: exchange blue
+      icon: exchange green
       style: basic
       url: https://products.aspose.app/gis/zh/conversion/shapefile-to-geojson
 
     - name: DWG to GeoJSON
-      icon: exchange blue
+      icon: exchange green
       style: basic
       url: https://mygeodata.cloud/converter/dwg-to-geojson
 
     - name: WKT/WKB/GeoJSON
-      icon: exchange blue
+      icon: exchange green
       style: basic
       url: https://www.osgeo.cn/app/s1343
 
@@ -231,6 +235,10 @@
       style: basic
       url: https://mp.sohu.com/profile?xpt=Y2Y4NTJlNzgtOGUwNC00MTE1LWJhYzctY2YwOWQ0MmY1NWM4&_f=index_pagemp_1&spm=smpc.content.author.2.16951040478853pHGFw5
  
+     - name: 国家标准公开
+      style: basic
+      url: https://openstd.samr.gov.cn/bzgk/gb/index
+
   - name: 行业官网
     links:
     - name: 长光卫星
