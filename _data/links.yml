@@ -5,7 +5,7 @@
       style: green
       url: https://data.cresda.cn/
 
-    - name: 达摩院
+    - name: AI Earth
       style: black
       url: https://engine-aiearth.aliyun.com/
 
@@ -162,7 +162,7 @@
     - name: WKT/WKB/GeoJSON
       icon: exchange blue
       style: basic
-      url: hhttps://www.osgeo.cn/app/s1343
+      url: https://www.osgeo.cn/app/s1343
 
     - name: GeoJSON Validator
       icon: check circle red
