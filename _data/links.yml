@@ -45,10 +45,6 @@
       style: basic
       url: https://www.webmap.cn/main.do?method=index
 
-    - name: 国家地球系统科学数据中心
-      style: basic
-      url: http://gre.geodata.cn/data/index.html
-
     - name: 地理监测云平台
       style: basic
       url: http://www.dsac.cn/
@@ -56,6 +52,10 @@
     - name: 风云卫星遥感数据服务网
       style: basic
       url: http://satellite.nsmc.org.cn/PortalSite/Default.aspx
+
+    - name: 国家地球系统科学数据中心
+      style: basic
+      url: http://gre.geodata.cn/data/index.html
 
     - name: 中国遥感卫星地面站数据共享门户
       style: basic
@@ -164,6 +164,11 @@
       style: basic
       url: https://hxkj.vip/demo/echartsMap/
 
+    - name: GeoJSON Viewer
+      icon: eye black
+      style: basic
+      url: https://geojson.io/
+      
     - name: Shapefile to GeoJSON
       icon: exchange green
       style: basic
@@ -183,11 +188,6 @@
       icon: check circle red
       style: basic
       url: https://geojsonlint.com/
-
-    - name: GeoJSON Viewer
-      icon: eye black
-      style: basic
-      url: https://geojson.io/
 
   - name: 学习资源
     links:
